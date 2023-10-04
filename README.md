@@ -2,9 +2,9 @@
 
 ## Te raden woord
 
-|w| | | | | | |
+|p|a|r|i|s|
 
-|-|-|-|-|-|-|e|
+|-|-|-|-|-|-|-|
 
 |1|2|3|4|5|6|7|
 
@@ -14,3 +14,11 @@
 ## Beurten
 * ik raad een w
 * ik raad een y (niet goed)
+* ik raad een g
+* ik raad een h
+* ik raad een p
+* ik raad een d
+* ik raad een r
+* ik raad een a
+* ik raad een i
+
